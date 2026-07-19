@@ -126,17 +126,9 @@ Multi-modal pasture biomass predictor (ConvNeXt Tiny + MLP), R² = 0.88, cutting
 
 <br/>
 
-### 📈 Contribution Activity
+### 👀 Profile Views
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithinknkr/nithinknkr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithinknkr/nithinknkr/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/nithinknkr/nithinknkr/output/github-contribution-grid-snake.svg" width="90%"/>
-</picture>
-
-<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nithinknkr&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
 
