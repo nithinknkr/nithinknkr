@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=180&section=header&animation=fadeIn" width="100%"/>
+
+<br/>
+
 # Hi there, I am Nithin 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=CSE+-+Data+Science+Student;Backend+Developer+%26+AI+Enthusiast;Turning+Data+into+Deployable+Intelligence" alt="Typing SVG" />
@@ -122,8 +126,30 @@ Multi-modal pasture biomass predictor (ConvNeXt Tiny + MLP), R² = 0.88, cutting
 
 <br/>
 
+### 📈 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithinknkr/nithinknkr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithinknkr/nithinknkr/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/nithinknkr/nithinknkr/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nithinknkr&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
 <div align="center">
 
 *"Building systems that don't just work in a notebook — they ship."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" width="100%"/>
 
 </div>
