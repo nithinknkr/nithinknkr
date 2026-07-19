@@ -126,11 +126,11 @@ Multi-modal pasture biomass predictor (ConvNeXt Tiny + MLP), R² = 0.88, cutting
 
 <br/>
 
-### 👀 Profile Views
+### 📊 GitHub Stats
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nithinknkr&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://github-readme-stats.vercel.app/api?username=nithinknkr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=C9D1D9&ring_color=2563EB" width="65%" />
 
 </div>
 
