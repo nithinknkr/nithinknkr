@@ -126,11 +126,11 @@ Multi-modal pasture biomass predictor (ConvNeXt Tiny + MLP), R² = 0.88, cutting
 
 <br/>
 
-### 📊 GitHub Stats
+### 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nithinknkr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=C9D1D9&ring_color=2563EB" width="65%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinknkr&theme=react-dark&hide_border=true&bg_color=0D1117&color=2563EB&line=2563EB&point=C9D1D9" width="97%" />
 
 </div>
 
