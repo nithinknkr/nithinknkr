@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6B8E23&center=true&vCenter=true&width=650&lines=Hi+there%2C+I+am+Nithin+%F0%9F%91%8B;CSE+-+Data+Science+Student;Backend+Developer+%26+AI+Enthusiast;Turning+Data+into+Deployable+Intelligence" alt="Typing SVG" />
+# Hi there, I am Nithin 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=CSE+-+Data+Science+Student;Backend+Developer+%26+AI+Enthusiast;Turning+Data+into+Deployable+Intelligence" alt="Typing SVG" />
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-6B8E23?style=for-the-badge&logo=briefcase&logoColor=white)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-2563EB?style=for-the-badge&logo=briefcase&logoColor=white)
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B8E23?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konudula-nithin-kumar-reddy-600512259/)
-[![Email](https://img.shields.io/badge/Email-6B8E23?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konudulanithin234@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6B8E23?style=for-the-badge&logo=netlify&logoColor=white)](https://konudulanithin-portfolio.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-6B8E23?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Konudula_Nithin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konudula-nithin-kumar-reddy-600512259/)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konudulanithin234@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=netlify&logoColor=white)](https://konudulanithin-portfolio.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Konudula_Nithin/)
 
 </div>
 
@@ -36,28 +38,25 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-6B8E23?style=for-the-badge&logo=huggingface&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/-6B8E23?style=for-the-badge&logo=keras&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/-6B8E23?style=for-the-badge&logo=scikitlearn&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/-6B8E23?style=for-the-badge&logo=numpy&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/-6B8E23?style=for-the-badge&logo=pandas&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/-6B8E23?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="32"/>
-
-<br/><br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-6B8E23?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-6B8E23?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-6B8E23?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-6B8E23?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-6B8E23?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-6B8E23?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6B8E23?style=flat-square)
-![CNN](https://img.shields.io/badge/CNN-6B8E23?style=flat-square)
-![LSTM](https://img.shields.io/badge/LSTM-6B8E23?style=flat-square)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-6B8E23?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-6B8E23?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-6B8E23?style=flat-square)
-![REST API](https://img.shields.io/badge/REST%20API-6B8E23?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-2563EB?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-2563EB?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-2563EB?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-2563EB?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-2563EB?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-2563EB?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2563EB?style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-2563EB?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-2563EB?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-2563EB?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-2563EB?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-2563EB?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-2563EB?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2563EB?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-2563EB?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-2563EB?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-2563EB?style=flat-square)
 
 </div>
 
@@ -67,10 +66,10 @@
 
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-6B8E23?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-6B8E23?style=for-the-badge&logo=amazonaws&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-6B8E23?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6B8E23?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-2563EB?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-2563EB?style=for-the-badge)
 
 </div>
 
@@ -120,26 +119,6 @@ Multi-modal pasture biomass predictor (ConvNeXt Tiny + MLP), R² = 0.88, cutting
 </td>
 </tr>
 </table>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nithinknkr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B8E23&icon_color=6B8E23&text_color=C9D1D9&ring_color=6B8E23" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithinknkr&theme=dark&hide_border=true&background=0D1117&stroke=6B8E23&ring=6B8E23&fire=6B8E23&currStreakLabel=6B8E23&sideLabels=6B8E23" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinknkr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B8E23&text_color=C9D1D9" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=nithinknkr&theme=darkhub&no-frame=true&column=3&margin-w=10&margin-h=10" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinknkr&theme=react-dark&hide_border=true&bg_color=0D1117&color=6B8E23&line=6B8E23&point=C9D1D9" width="97%" />
-
-</div>
 
 <br/>
 
